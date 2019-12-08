@@ -13,4 +13,4 @@ y_max_velocity = 5;
 x_max_velocity = 8;
 acceleration = 0.5;
 drag = 0.2;
-op_boost = 1.5;
+op_boost = 2;
