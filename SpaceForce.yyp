@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0f4bb17e-cea3-4c54-86c8-541291c92625",
+            "Value": {
+                "id": "c6ba20c6-3fcd-4d16-b9cb-20687bb99bf4",
+                "resourcePath": "objects\\obj_red_powerup\\obj_red_powerup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "187dcc68-1fb8-4276-8575-c9d0235d1073",
             "Value": {
                 "id": "62385212-4114-4c48-a111-e538ea3036a7",
@@ -83,6 +91,14 @@
             "Value": {
                 "id": "138066fa-e016-4c59-b700-e3e16997d4ba",
                 "resourcePath": "objects\\obj_green_bullet\\obj_green_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5e36e139-c081-461d-b716-62d800d6b777",
+            "Value": {
+                "id": "603f3474-150d-4aab-8a7b-ae01afdafec8",
+                "resourcePath": "objects\\obj_green_powerup\\obj_green_powerup.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -143,6 +159,14 @@
             }
         },
         {
+            "Key": "8b463a30-8db1-438c-919a-1f015e3cedf4",
+            "Value": {
+                "id": "271aee9e-9093-4bc0-a235-f557011a8c66",
+                "resourcePath": "sprites\\spr_green_powerup\\spr_green_powerup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8f4b61fd-1616-4f33-b0be-c6357e698f44",
             "Value": {
                 "id": "127145c1-a57a-4a8b-98d1-89b8c88fe4c5",
@@ -156,6 +180,14 @@
                 "id": "bfeb4570-dd98-4cb3-a6b5-887985c7c21f",
                 "resourcePath": "views\/967ec3af-c721-4b64-a086-50b288f95bfb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a2c631c9-213f-4d79-952d-0a08b872420e",
+            "Value": {
+                "id": "3fdd87a5-3fc0-4b28-be87-f4875ea5a8f0",
+                "resourcePath": "sprites\\spr_red_powerup\\spr_red_powerup.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
