@@ -1,4 +1,4 @@
-/// @description Shooting alarm
-can_shoot = true;
+/// @description Primary gun shooting alarm
+can_shoot_primary = true;
 
-alarm[0] = room_speed / shoot_speed;
+alarm[0] = room_speed / primary_shoot_speed;

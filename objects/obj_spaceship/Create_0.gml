@@ -14,9 +14,18 @@ acceleration = 0.5;
 drag = 0.2;
 op_boost = 2;
 
-
-shoot_speed = 5; // allowed bullets per second.
-can_shoot = true;
-
 ship_xcenter = x + sprite_width / 2;
-ship_ycenter = y + sprite_height / 2
+ship_ycenter = y + sprite_height / 2;
+
+// Bullet start positions:
+primary_gun_x = x + 50;
+primary_gun_y = y + 28;
+side_gun1_x = x + 30;
+side_gun1_y = y + 42; // or 44
+side_gun2_x = x + 68;
+side_gun2_y = y + 42;
+
+primary_shoot_speed = 5;
+secondary_shoot_speed = 10;
+can_shoot_primary = true;
+can_shoot_secondary = true;
