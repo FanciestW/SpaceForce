@@ -1,5 +1,15 @@
-/// @description Insert description here
-// You can write your code in this editor
+// Update ship center position
+ship_xcenter = x + sprite_width / 2;
+ship_ycenter = y + sprite_height / 2
+
+// Shooting
+if (keyboard_check(shoot_input)) {
+	if (can_shoot) {
+		instance_create_layer(ship_xcenter, ship_ycenter, layer_get_name("Instances"), obj_red_bullet);
+		can_shoot = false;
+		alarm[0] = room_speed / shoot_speed;
+	}
+}
 
 // Apply velocity if within room bounds.
 if (x < 0 && x_velocity < 0) {
