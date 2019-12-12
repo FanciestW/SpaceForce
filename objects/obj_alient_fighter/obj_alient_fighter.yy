@@ -1,19 +1,10 @@
 {
-    "id": "ff7b155a-bcd2-4836-a2f9-3a0b8252c700",
+    "id": "bdbc2714-c6d6-48bd-9bff-e17b7dd2a58b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_red_powerup",
+    "name": "obj_alient_fighter",
     "eventList": [
-        {
-            "id": "10f254a4-c2e3-4187-ba16-b234ad37633a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "d561e196-6d64-4b10-b5bc-979c283196fe",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "ff7b155a-bcd2-4836-a2f9-3a0b8252c700"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a2c631c9-213f-4d79-952d-0a08b872420e",
+    "spriteId": "7cc05042-7646-4d12-89f2-11b07e657c39",
     "visible": true
 }

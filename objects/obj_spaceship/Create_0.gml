@@ -1,3 +1,5 @@
+health = 100;
+
 // Movement inputs:
 up_input = ord("W");
 down_input = ord("S");

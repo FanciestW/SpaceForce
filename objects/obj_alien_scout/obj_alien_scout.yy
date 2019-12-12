@@ -1,19 +1,10 @@
 {
-    "id": "ff7b155a-bcd2-4836-a2f9-3a0b8252c700",
+    "id": "685b31d6-944a-4a02-82b6-086196f13787",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_red_powerup",
+    "name": "obj_alien_scout",
     "eventList": [
-        {
-            "id": "10f254a4-c2e3-4187-ba16-b234ad37633a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "d561e196-6d64-4b10-b5bc-979c283196fe",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "ff7b155a-bcd2-4836-a2f9-3a0b8252c700"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a2c631c9-213f-4d79-952d-0a08b872420e",
+    "spriteId": "59240916-4f4f-4281-a97f-c5b54f96db63",
     "visible": true
 }
