@@ -27,7 +27,7 @@ side_gun1_y = y + 42; // or 44
 side_gun2_x = x + 68;
 side_gun2_y = y + 42;
 
-primary_shoot_speed = 5;
+primary_shoot_speed = 2;
 secondary_shoot_speed = 0;
 can_shoot_primary = true;
 can_shoot_secondary = false;
