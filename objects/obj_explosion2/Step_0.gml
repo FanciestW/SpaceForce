@@ -3,6 +3,9 @@ if (image_speed > 0) {
 		instance_destroy();
 	}
 }
+if (image_index == 10) { 
+	audio_play_sound(snd_explosion, 10, false);
+}
 if (instance_exists(creator) && image_index >= 10) {
 	instance_destroy(creator);
 }
