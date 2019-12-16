@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2383c7e9-4c82-410c-a951-807e754ddd3b",
+            "Value": {
+                "id": "c2d8b07f-b008-4500-a0cb-5d5c163302c4",
+                "resourcePath": "sprites\\spr_explosion2\\spr_explosion2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3910dde5-b91b-4915-b2fc-d7f65206f221",
             "Value": {
                 "id": "e5446f5e-7eeb-4512-8634-dd98823d3d97",
@@ -76,6 +84,14 @@
                 "id": "858ffee8-2b36-4fdb-b91c-c59edf72d032",
                 "resourcePath": "sprites\/spr_blue_powerup\/spr_blue_powerup.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "46786047-0c19-4df8-b0a7-1c6d8ca93176",
+            "Value": {
+                "id": "0dd9cc99-8d03-470a-9fc9-8c4da63e5eea",
+                "resourcePath": "objects\\obj_explosion2\\obj_explosion2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -116,6 +132,14 @@
                 "id": "252d02aa-99d9-4981-bc7b-0d63a42f6204",
                 "resourcePath": "sprites\/spr_alien_scout\/spr_alien_scout.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "59af9ced-b27c-4535-808e-a3cba3d5ce20",
+            "Value": {
+                "id": "e3eac59e-8156-4598-bb4f-8900869b3c52",
+                "resourcePath": "sounds\\snd_explosion\\snd_explosion.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -231,6 +255,14 @@
             }
         },
         {
+            "Key": "a34e1ce6-b0e9-45ea-8bf6-214347181dcf",
+            "Value": {
+                "id": "84b6cf65-9320-4b91-8366-523e30cd8a51",
+                "resourcePath": "sprites\\spr_explosion1\\spr_explosion1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a57d226e-2395-401c-b470-2deedd14144f",
             "Value": {
                 "id": "9f6f0b16-8334-490a-aae1-96316a5b1af7",
@@ -292,6 +324,14 @@
                 "id": "74842a6c-565e-4465-be1f-9792e8a5f7dc",
                 "resourcePath": "sprites\/spr_red_bullet\/spr_red_bullet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d394dd4a-eaa1-47db-90a6-09ec1eff13a8",
+            "Value": {
+                "id": "0ce30d86-c634-4399-a810-b21c9fb829e9",
+                "resourcePath": "objects\\obj_explosion1\\obj_explosion1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
