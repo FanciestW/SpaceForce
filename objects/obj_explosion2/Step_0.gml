@@ -3,3 +3,6 @@ if (image_speed > 0) {
 		instance_destroy();
 	}
 }
+if (instance_exists(creator) && image_index >= 10) {
+	instance_destroy(creator);
+}

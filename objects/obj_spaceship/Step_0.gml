@@ -10,6 +10,17 @@ side_gun1_y = y + 42; // or 44
 side_gun2_x = x + 68;
 side_gun2_y = y + 42;
 
+if (!active) {
+	exit
+}
+
+// Check health
+if (ship_health <= 0) {
+	active = false;
+	var explosion = instance_create_depth(x + sprite_width / 2, y + sprite_height / 2, depth - 1, obj_explosion1);
+	explosion.creator = self;
+}
+
 // Shooting
 if (keyboard_check(shoot_input)) {
 	if (can_shoot_primary) {

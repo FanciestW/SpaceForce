@@ -1,4 +1,5 @@
-health = 100;
+ship_health = 100;
+active = true;
 
 // Movement inputs:
 up_input = ord("W");
