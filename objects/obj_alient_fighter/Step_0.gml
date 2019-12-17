@@ -1,3 +1,7 @@
+if (!active) {
+	exit;
+}
+
 if (hits_left <= 0) {
 	instance_destroy(self);
 }
