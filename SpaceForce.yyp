@@ -322,7 +322,7 @@
             "Key": "bdbc2714-c6d6-48bd-9bff-e17b7dd2a58b",
             "Value": {
                 "id": "7c04fd1b-d454-4623-8e97-3d601d8f7149",
-                "resourcePath": "objects\/obj_alient_fighter\/obj_alient_fighter.yy",
+                "resourcePath": "objects\\obj_alien_fighter\\obj_alien_fighter.yy",
                 "resourceType": "GMObject"
             }
         },

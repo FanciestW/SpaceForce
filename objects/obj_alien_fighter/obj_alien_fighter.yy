@@ -2,7 +2,7 @@
     "id": "bdbc2714-c6d6-48bd-9bff-e17b7dd2a58b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_alient_fighter",
+    "name": "obj_alien_fighter",
     "eventList": [
         {
             "id": "3eccf2c1-9d10-4956-886c-f7131bfa2f1e",
@@ -32,6 +32,16 @@
             "collisionObjectId": "d561e196-6d64-4b10-b5bc-979c283196fe",
             "enumb": 0,
             "eventtype": 4,
+            "m_owner": "bdbc2714-c6d6-48bd-9bff-e17b7dd2a58b"
+        },
+        {
+            "id": "07ed9359-e8ed-4a5a-99c4-fe934ff76f3c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
             "m_owner": "bdbc2714-c6d6-48bd-9bff-e17b7dd2a58b"
         }
     ],

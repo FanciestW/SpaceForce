@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_enemy_pink_bullet",
     "eventList": [
-        
+        {
+            "id": "c3e8b309-dc37-492d-a8be-62b246c9ee53",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "ac98e5c3-9563-499f-8e49-0fc3d4ed5d4b"
+        },
+        {
+            "id": "1be14d40-eab0-47da-ba51-a26d1dd52202",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "ac98e5c3-9563-499f-8e49-0fc3d4ed5d4b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
