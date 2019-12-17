@@ -10,6 +10,10 @@ side_gun1_y = y + 42; // or 44
 side_gun2_x = x + 68;
 side_gun2_y = y + 42;
 
+// Respawn Location
+spawn_x = 448;
+spawn_y = 992;
+
 if (!active) {
 	exit
 }
