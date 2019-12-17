@@ -1,2 +1,4 @@
 hits_left = 0;
-other.ship_health -= 25;
+if (active) {
+	other.ship_health -= 25;
+}
