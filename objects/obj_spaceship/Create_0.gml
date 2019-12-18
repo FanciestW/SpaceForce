@@ -2,11 +2,11 @@ ship_health = 100;
 active = true;
 
 // Movement inputs:
-up_input = ord("W");
-down_input = ord("S");
-left_input = ord("A");
-right_input = ord("D");
-shoot_input = vk_space;
+up_input = global.up_key;
+down_input = global.down_key;
+left_input = global.left_key;
+right_input = global.right_key;
+shoot_input = global.shoot_key;
 
 // Ship parameters:
 x_velocity = 0;
