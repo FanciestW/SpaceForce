@@ -25,8 +25,15 @@ if (x + hmove_speed >= room_width - 85) {
 x += hmove_speed;
 y += vmove_speed;
 
+// Don't shoot unless in room
+if (y < -100) {
+	can_engage = false;
+} else {
+	can_engage = true;
+}
+
 // Shooting
-if (can_shoot) {
+if (can_shoot && can_engage) {
 	instance_create_layer(gun_x, gun_y, layer_get_name("Instances"), obj_enemy_pink_bullet);
 	var leftBullet = instance_create_layer(gun_x, gun_y, layer_get_name("Instances"), obj_enemy_pink_bullet);
 	var rightBullet = instance_create_layer(gun_x, gun_y, layer_get_name("Instances"), obj_enemy_pink_bullet);

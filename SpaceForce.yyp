@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "075f84d7-f1fc-4ae3-a980-09ebe814dfe3",
+            "Value": {
+                "id": "19db0fe4-ec4f-4008-8c26-d22cecfd5053",
+                "resourcePath": "objects\\obj_missile_explosion\\obj_missile_explosion.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "08c7cf3e-7edc-472f-b772-2917f7bc6501",
             "Value": {
                 "id": "b5d45828-0547-4ecd-a1c0-35ad78cd09d6",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "5e1a67e5-acd3-44b5-9d63-af1964674806",
+            "Value": {
+                "id": "d053f692-c659-4a19-9c9a-233a1cf16a7a",
+                "resourcePath": "sounds\\snd_missile_explosion\\snd_missile_explosion.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "5e36e139-c081-461d-b716-62d800d6b777",
             "Value": {
                 "id": "603f3474-150d-4aab-8a7b-ae01afdafec8",
@@ -271,6 +287,14 @@
             }
         },
         {
+            "Key": "7cfa6d45-64ff-4893-be88-01a51e81bd89",
+            "Value": {
+                "id": "07c5b519-c829-4d60-81f3-d8e1c1d856a2",
+                "resourcePath": "sprites\\spr_missile_explosion\\spr_missile_explosion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "80b591c0-2463-4dd9-ae58-ca10025dd6a8",
             "Value": {
                 "id": "7a229d74-ebe8-4b7d-9dcd-c673322f0628",
@@ -292,6 +316,14 @@
                 "id": "a06bc0ce-c2ff-41e5-938e-70f7e0b95aca",
                 "resourcePath": "views\/85e543f3-b9e6-4008-8d95-f81e3e82237a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "889063cf-ab63-4fd9-a91b-7ff12b917e3b",
+            "Value": {
+                "id": "73d7e707-c723-412f-a0f5-29d79b8e3607",
+                "resourcePath": "sounds\\snd_battle1_loop\\snd_battle1_loop.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -452,6 +484,14 @@
                 "id": "f040532b-0727-4ef4-9403-c2abad8e8de3",
                 "resourcePath": "objects\\obj_menu\\obj_menu.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dbd0aaae-25dd-47b6-b037-15fcf631cf30",
+            "Value": {
+                "id": "5361bd71-8638-4b9e-8597-3b53275739bd",
+                "resourcePath": "sounds\\snd_title_loop\\snd_title_loop.yy",
+                "resourceType": "GMSound"
             }
         },
         {

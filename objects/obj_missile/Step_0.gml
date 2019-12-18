@@ -2,8 +2,8 @@ var player = instance_nearest(x, y, obj_spaceship);
 var target_x;
 var target_y;
 if (player != noone) {
-	target_x = player.x;
-	target_y = player.y;
+	target_x = player.x + player.sprite_width / 2;
+	target_y = player.y + player.sprite_height / 2;
 } else {
 	target_x = room_width / 2;
 	target_y = room_height + 50;
