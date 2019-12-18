@@ -10,9 +10,9 @@ if (player != noone) {
 }
 
 if (x < -16 || x >= room_width + 16) {
-	instance_destroy(self);
+	instance_destroy(self, false);
 } else if (y < -16 || y >= room_height + 16) {
-	instance_destroy(self);	
+	instance_destroy(self, false);	
 }
 
 // Point missile in target direction

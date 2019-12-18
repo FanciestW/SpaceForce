@@ -11,16 +11,13 @@ if (menu_enter) {
 		// Play
 		case 0:
 			score = 0;
+			if (room_get_name(room) == "room_lvl_complete") {
+				global.target_score += 5000;
+			}
 			room_goto(room_game);
-			// instance_create_layer(x, y, layer_get_id("menu_layer"), obj_menu_player_selection);
-			// instance_destroy(self);
 			break;
 		case 1:
-			room_goto(room_instructions);
-			break;
-		// Exit
-		case 2:
-			game_end();
+			room_goto(room_menu);
 			break;
 	}
 }
