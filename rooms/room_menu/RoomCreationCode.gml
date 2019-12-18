@@ -14,3 +14,5 @@ destroy_all_instances(obj_enemy_pink_bullet);
 destroy_all_instances(obj_alien_scout);
 destroy_all_instances(obj_alien_fighter);
 destroy_all_instances(obj_alien_destroyer);
+
+global.target_score = 5000;
