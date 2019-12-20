@@ -18,3 +18,5 @@ destroyer_spawn_speed = 15;
 scout_limit = 6;
 fighter_limit = 4;
 destroyer_limit = 3;
+
+audio_play_sound(snd_intro_dialog, 10, false);
