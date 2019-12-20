@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "8179c795-1bc3-497a-9799-4f0d21ad5ad7",
+            "Value": {
+                "id": "73600650-9e9b-4133-a0c3-bafffb5b077d",
+                "resourcePath": "sounds\/snd_laser\/snd_laser.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "82bf7d13-4f6b-4b2b-a6b7-41ed5f38fd73",
             "Value": {
                 "id": "4ba3282e-d86e-4e5f-beaf-8bb91982cc66",
